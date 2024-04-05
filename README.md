@@ -2,19 +2,11 @@ This is a Store Analysis Dashboard for Vrinda Store which I have created using E
 
 Objective :
 
-To create a Annual Sales Report for 2022
+Developed a Store Analysis Dashboard for Vrinda Store using Excel to create an Annual Sales Report for 2022 and analyze customer and sales growth in 2023.  
 
-To analyze customer and sales growth in 2023
+- Implemented features allowing users to visualize Orders and Sales chart, identify top 5 states with maximum orders, and track order status. 
 
-Here users can view:
-
-Orders and Sales chart
-
-Top 5 states where orders are maximum 
-
-Order status
-
-Number of orders with respect to gender
+ - Enabled users to analyze the number of orders with respect to gender, facilitating better decision-making based on customer demographics
 
 Screenshot:
 
